@@ -1,0 +1,21 @@
+@UTF8
+@PID:	11312/c-00001680-1
+@Begin
+@Languages:	eng
+@Participants:	EXP Investigator, CHI Target_Child, MOT Mother
+@ID:	eng|Paradis|EXP|||||Investigator|||
+@ID:	eng|Paradis|CHI|6;01.10|female|||Target_Child|||
+@ID:	eng|Paradis|MOT||female|||Mother|||
+@Birth of CHI:	20-MAY-1996
+@L1 of CHI:	far
+@Date:	30-JUN-2002
+@Situation:	Spontaneous language with a semi-structured interview format.
+@Types:	long, toyplay, biling
+*CHI:	(.) &-um (.) .
+*CHI:	six .
+%mor:	num|six .
+*CHI:	it's finished .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|finish-Part-Past-S .
+*CHI:	my birthday's finished .
+%mor:	pron|my-Prs-Gen-S1 noun|birthday~aux|be-Fin-Ind-Pres-S3 verb|finish-Part-Past-S .
+@End
